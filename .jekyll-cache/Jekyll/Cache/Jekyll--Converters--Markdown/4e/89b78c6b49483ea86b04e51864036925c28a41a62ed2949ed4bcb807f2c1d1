@@ -1,0 +1,34 @@
+I"�<p>Git之Github使用（一）：Push代码到Github</p>
+<blockquote>
+  <p>1</p>
+  <blockquote>
+    <p>git init 初始化
+初始化后在本地代码库会自动创建一个.git 隐藏文件，这个就是本地代码库</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>2</p>
+  <blockquote>
+    <p>加载文件
+git add .</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>3</p>
+  <blockquote>
+    <p>提交文件，创建时间点
+git commit -m “init commit”</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>4推送代码</p>
+  <blockquote>
+    <p>第一次推送的时候要添加远程的代码库到配置
+git remote add origin “网址”  git push origin master</p>
+  </blockquote>
+</blockquote>
+
+:ET
