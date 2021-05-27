@@ -1,0 +1,65 @@
+I"-<h2 id="web应用软件开发实训---第三次作业---git使用">WEB应用软件开发实训 - 第三次作业 - Git使用</h2>
+<blockquote>
+  <p>learngit 项目网址为：https://happy-orange-juice.github.io/</p>
+  <h2 id="必做部分">必做部分</h2>
+  <h3 id="1安装git">1.安装git</h3>
+  <p><img src="/assets/images/安装git.png" alt="tree" /></p>
+  <h3 id="2安装版本库">2.安装版本库</h3>
+  <p><img src="/assets/images/创建版本库.png" alt="tree" /></p>
+  <h3 id="3版本控制">3.版本控制</h3>
+  <p><img src="/assets/images/版本控制.png" alt="tree" /></p>
+  <h3 id="4版本回退">4.版本回退</h3>
+  <p><img src="/assets/images/版本回退1.png" alt="tree" />
+<img src="/assets/images/版本回退2.png" alt="tree" /></p>
+  <h3 id="5工作区和暂存区">5.工作区和暂存区</h3>
+  <p><img src="/assets/images/工作区和暂存区.png" alt="tree" /></p>
+  <h3 id="6管理修改">6.管理修改</h3>
+  <p><img src="/assets/images/管理修改.png" alt="tree" /></p>
+  <h3 id="7撤销修改">7.撤销修改</h3>
+  <p><img src="/assets/images/撤销修改.png" alt="tree" /></p>
+  <h3 id="8删除文件">8.删除文件</h3>
+  <p><img src="/assets/images/删除文件1.png" alt="tree" />
+<img src="/assets/images/删除文件2.png" alt="tree" /></p>
+  <h3 id="9远程仓库">9.远程仓库</h3>
+  <p><img src="/assets/images/远程仓库以及添加远程仓库.png" alt="tree" /></p>
+  <h3 id="10添加到远程仓库">10.添加到远程仓库</h3>
+  <p><img src="/assets/images/远程仓库以及添加远程仓库.png" alt="tree" /></p>
+</blockquote>
+
+<h2 id="选做部分">选做部分</h2>
+<h3 id="一分支管理">（一）分支管理</h3>
+<h4 id="1创建与合并分支">1.创建与合并分支</h4>
+<p><img src="/assets/images/分支管理_创建与合并分支.png" alt="tree" /></p>
+<h4 id="2解决冲突">2.解决冲突</h4>
+<p><img src="/assets/images/分支管理_解决冲突1.png" alt="tree" />
+<img src="/assets/images/分支管理_解决冲突2.png" alt="tree" /></p>
+<h4 id="3bug分支">3.Bug分支</h4>
+<p><img src="/assets/images/分支管理_Bug分支.png" alt="tree" /></p>
+<h4 id="4feature分支">4.Feature分支</h4>
+<p><img src="/assets/images/分支管理_Feature分支.png" alt="tree" /></p>
+<h4 id="5rebase分支">5.Rebase分支</h4>
+<p><img src="/assets/images/分支管理_Rebase分支.png" alt="tree" /></p>
+<h3 id="二标签管理">（二）标签管理</h3>
+<h4 id="1操作标签">1.操作标签</h4>
+<p><img src="/assets/images/标签管理_操作标签.png" alt="tree" /></p>
+<h4 id="2创建标签">2.创建标签</h4>
+<p><img src="/assets/images/标签管理_创建标签.png" alt="tree" />
+<img src="/assets/images/标签管理_创建标签1.png" alt="tree" />
+<img src="/assets/images/标签管理_创建标签2.png" alt="tree" /></p>
+<h3 id="三使用gitee">（三）使用gitee</h3>
+<p><img src="/assets/images/gitee.png" alt="tree" /></p>
+<h3 id="四自定义git相关">（四）自定义git相关</h3>
+<h4 id="1忽略特殊文件">1.忽略特殊文件</h4>
+<p><img src="/assets/images/自定义Git_忽略特殊文件.png" alt="tree" /></p>
+<h4 id="1配置别名">1.配置别名</h4>
+<p><img src="/assets/images/自定义Git_配置别名.png" alt="tree" /></p>
+<h2 id="三实验操作">三、实验操作</h2>
+<p>按照教程里面的内容一步一步完成即可。<br />
+5/17：完成必做部分的内容  <br />
+5/19：完成选做部分的内容（没有完成搭建Git服务器部分的内容）<br />
+5/27：完成实验报告</p>
+<h2 id="四总结">四、总结</h2>
+<p>本次实验相对而言比较简单，按照网上的教程一步一步的解决一般都可以完成<br />
+主要问题还是在配置ssh的时候，因为以前配置过了，所以导致本次实验配置的<br />
+时候总是指纹认证失败，之后在网上搜索后发现了这个问题，重新生成一个</p>
+:ET

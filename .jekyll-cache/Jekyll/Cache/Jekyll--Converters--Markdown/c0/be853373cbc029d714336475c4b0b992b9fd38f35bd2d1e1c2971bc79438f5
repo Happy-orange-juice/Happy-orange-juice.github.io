@@ -1,0 +1,28 @@
+I"<<h2 id="web应用软件开发实训---第三次作业---git使用">WEB应用软件开发实训 - 第三次作业 - Git使用</h2>
+<blockquote>
+  <p>learngit 项目网址为：https://happy-orange-juice.github.io/</p>
+  <h2 id="必做部分">必做部分</h2>
+  <h3 id="1安装git">1.安装git</h3>
+  <p><img src="/assets/images/安装git.png" alt="tree" /></p>
+  <h3 id="2安装版本库">2.安装版本库</h3>
+  <p><img src="/assets/images/创建版本库.png" alt="tree" /></p>
+  <h3 id="3版本控制">3.版本控制</h3>
+  <p><img src="/assets/images/版本控制.png" alt="tree" /></p>
+  <h3 id="4版本回退">4.版本回退</h3>
+  <p><img src="/assets/images/版本回退1.png" alt="tree" />
+<img src="/assets/images/版本回退2.png" alt="tree" /></p>
+  <h3 id="5工作区和暂存区">5.工作区和暂存区</h3>
+  <p><img src="/assets/images/工作区与暂存区.png" alt="tree" /></p>
+  <h3 id="6管理修改">6.管理修改</h3>
+  <p><img src="/assets/images/管理修改.png" alt="tree" /></p>
+  <h3 id="7撤销修改">7.撤销修改</h3>
+  <p><img src="/assets/images/撤销修改.png" alt="tree" /></p>
+  <h3 id="8删除文件">8.删除文件</h3>
+  <p><img src="/assets/images/删除文件1.png" alt="tree" />
+<img src="/assets/images/删除文件2.png" alt="tree" /></p>
+  <h3 id="9远程仓库">9.远程仓库</h3>
+  <p><img src="/assets/images/远程仓库以及添加远程仓库.png" alt="tree" /></p>
+  <h3 id="10添加到远程仓库">10.添加到远程仓库</h3>
+  <p><img src="/assets/images/远程仓库以及添加远程仓库.png" alt="tree" /></p>
+</blockquote>
+:ET
